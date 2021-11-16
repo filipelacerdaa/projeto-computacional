@@ -1,3 +1,5 @@
+POPULATION = 44.04e6   # Population of São Paulo state
+
 BASAL_REPRODUCTION = 2.5   # r0 – dimensionless
 
 INFECTION_TIME = 2.9    # T_inf – [days]
