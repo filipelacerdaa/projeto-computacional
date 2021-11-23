@@ -1,6 +1,6 @@
 # Simulação da pandemia de COVID
 
-Projeto computacional de **MS211 L – Cálculo Numérico** para analisar a evolução da pandemia de **SARS-COV-19** no estado de São Paulo e as possíveis consequências caso não fossem adotadas medidas de distanciamento e isolamento social pelo governo.
+Projeto computacional de **MS211 L – Cálculo Numérico** para analisar a evolução da pandemia de **COVID-19** no estado de São Paulo e as possíveis consequências caso não fossem adotadas medidas de distanciamento e isolamento social pelo governo.
 
 # Instalação
 
